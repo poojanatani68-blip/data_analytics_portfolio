@@ -20,8 +20,6 @@ Highlights:
 - Department-level analytics  
 - Tenure distribution  
 
-
-
  2️⃣ Mobiflix OTT Analytics Dashboard – Power BI
  Files:
 - Mobiflix_OTT_Analytics.pbix`  
@@ -53,6 +51,7 @@ Highlights:
 - GitHub for version control
 
 🔹 📫 Contact No.+91 9602232389
+Email:poojanatani68@gmail.com 
 
 Name:Pooja Natani  
 Role: Aspiring Data Analyst  
