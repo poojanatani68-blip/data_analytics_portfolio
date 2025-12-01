@@ -52,8 +52,8 @@ Highlights:
 - Google Colab
 - GitHub for version control
 
-
 🔹 📫 Contact No.+91 9602232389
+
 Name:Pooja Natani  
 Role: Aspiring Data Analyst  
 
